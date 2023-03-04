@@ -59,3 +59,7 @@ PC1: Intel Core i7 @ 3.60GHz, 8 Cores, 32GB RAM, NVIDIA GeForce RTX 2080 SUPER
 PC2: Intel Core i7 5820K @ 3.30GHz, 6 Cores, 32GB RAM, NVIDIA GeForce GTX 980 Ti
 
 *All matches invovling Leela Lc0 were run on PC1 on the RTX 2080 Super.
+
+
+[All games in PGN](https://github.com/aguet/Tournaments/blob/master/Winter2023.pgn?raw=true)
+
