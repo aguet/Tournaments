@@ -50,6 +50,7 @@ Bern, Switzerland, 2022.12.14 - 2023.03.04
 + no matches across different hw
 + 6-men Syzygy tablebases
 + Book: Perfect2019.bin (max 20 plys)
++ GUI: cutechess-1.3.0-beta4-win64
 
 
 ## Hardware
